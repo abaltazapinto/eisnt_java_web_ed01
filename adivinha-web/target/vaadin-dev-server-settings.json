@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/src/main/frontend/generated/jar-resources",
+  "themeName": "adivinha-web",
+  "clientServiceWorkerSource": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/adivinha-web/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
