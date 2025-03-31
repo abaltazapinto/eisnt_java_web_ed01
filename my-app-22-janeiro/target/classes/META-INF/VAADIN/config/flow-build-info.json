@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/my-app-22-janeiro",
+  "node.version": "v22.13.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/my-app-22-janeiro/src/main/frontend",
+  "connect.javaSourceFolder": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/my-app-22-janeiro/src/main/java",
+  "javaResourceFolder": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/my-app-22-janeiro/src/main/resources",
+  "connect.applicationProperties": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/my-app-22-janeiro/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/my-app-22-janeiro/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/abaltaza/Documents/02. Git Hub/eisnt_java_web_ed01/my-app-22-janeiro/src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "target",
+  "react.enable": true
+}
